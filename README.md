@@ -1,6 +1,6 @@
 # Aveline Wingfield
 
-## |Full Stack Developer | Scrum Master | Instructor | Classical Musician |
+## |Backend Engineer | Scrum Master | Instructor | Classical Musician |
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
@@ -22,8 +22,7 @@ Follow me on [Twitter](https://twitter.com/AvaWingz)
   "favoriteBook": "Lord of the Rings",
   "favoriteTelevision": "Great British Bake Off",
   "formerProfession": "Opera Singer",
-  "stack": "MERN",
-  "favoriteLang": "Python",
+  "favoriteLang": "Golang",
 }
 ```
 
