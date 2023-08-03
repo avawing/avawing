@@ -11,6 +11,7 @@ Follow me on [Twitter](https://twitter.com/AvaWingz)
 ---
 
 ## About
+![Avawing's GitHub stats](https://github-readme-stats.vercel.app/api?username=avawing&show_icons=true)
 
 ```
 {
