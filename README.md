@@ -12,8 +12,7 @@ Follow me on [Twitter](https://twitter.com/AvaWingz)
 
 ## About
 ![Avawing's GitHub stats](https://github-readme-stats.vercel.app/api?username=avawing&show_icons=true)
-![Avawing's GitHub stats](https://github-readme-stats.vercel.app/api?username=avawing&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avawing&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ```
 {
   "firstName": "Aveline",
